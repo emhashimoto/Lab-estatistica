@@ -1,0 +1,288 @@
+---
+title: "lab"
+title-slide-attributes:
+    data-background-image: imagem-lab/fundo_lab3.png
+    data-background-size: 100%
+    #data-background-opacity: "0.85"
+author: ""
+institute: ""
+format:
+  revealjs:
+    #incremental: true
+    footer: "Apresentação da disciplina"
+    logo: imagem-lab/logo_unesp.png
+    slide-number: false
+    multiplex: false
+    theme: [solarized, tema.scss]
+    show-slide-number: print
+    controls: true
+    width: 1280
+    height: 720
+    css: [custom.css]
+    menu: true
+    chalkboard: false
+execute:
+  echo: false
+from: markdown+emoji
+---
+
+## 🎓 Formação 
+
+<br>
+
+✅ Ensino básico
+
+::: {.fragment}
+- 🏫 EMEIF Álvares Machado <br>
+:::
+
+<br>
+
+::: {.fragment}
+- 🏫 EE Profa. Angélica de Oliveira
+:::
+
+<br>
+
+---
+
+✅ Bacharel em Estatística
+
+![](fig-lab/fct.jpg){fig-align="center" width="35%"}
+
+::: {.fragment}
+✅ Mestrado e Doutorado em Ciências
+
+![](fig-lab/esalq.jpg){fig-align="center" width="40%"}
+:::
+
+## 🧐 Área de pesquisa 
+
+<br>
+
+:::{.columns}
+:::{.column width="60%"}
+
+::: {.fragment}
+✅ Análise de sobrevivência
+:::
+
+<br>
+
+::: {.fragment}
+✅ Estatística experimental
+:::
+
+<br>
+
+::: {.fragment}
+✅ Modelos de regressão
+:::
+
+<br>
+
+::: {.fragment}
+✅ Controle estatístico do processo
+:::
+
+:::
+
+:::{.column width="40%"}
+
+<br>
+
+<iframe src="https://giphy.com/embed/3orieUe6ejxSFxYCXe" width="345" height="260" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/season-16-the-simpsons-16x3-3orieUe6ejxSFxYCXe"></a></p>
+
+:::
+:::
+
+## 🏫 Universidades 
+
+<br>
+
+:::{.columns}
+:::{.column width="50%"}
+
+:::{.fragment}
+![](fig-lab/logo_unoeste.jpg){fig-align="center" width="50%"}
+:::
+
+<br>
+
+:::{.fragment}
+![](fig-lab/logo_uem.jpg){fig-align="center" width="50%"}
+:::
+
+:::
+
+:::{.column width="50%"}
+
+:::{.fragment}
+![](fig-lab/utfpr.jpg){fig-align="center" width="50%"}
+:::
+
+<br>
+
+<iframe src="https://giphy.com/embed/nCVVpakhBTwBi" width="350" height="195" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/work-late-nCVVpakhBTwBi"></a></p>
+
+:::
+:::
+
+## Apresentar-se
+
+- Nome
+
+- Cidade de origem
+
+- Está fazendo estágio? Se sim, em qual área.
+
+![](https://media.giphy.com/media/TKNGghpLhaz9XH1tSj/giphy.gif){fig-align="right" width=35% height=35%}
+
+## 🎯 Objetivo da disciplina 
+
+<br>
+
+::: {.callout-note}
+- Destacar a importância das técnicas de amostragem para obter informações sobre uma população.
+
+- Compreender os principais conceitos dos métodos de amostragem.
+
+- Aplicação das técnicas.
+:::
+
+## ⏰ Horário
+
+<br>
+
+Aulas
+
+- Terça-feira das 7:30 ~ 11:10   
+
+## 📚 Bibliografias 
+
+<br>
+
+:::{.columns}
+:::{.column width="50%"}
+✅ BOLFARINE & BUSSAB (2005)
+  
+![](fig-lab/fig_ea.png){fig-align="center" width="50%"}
+:::
+
+:::{.column width="50%"}
+✅ SCHEAFFER et al. (2011)
+
+![](fig-lab/fig_scheaffer.jpg){fig-align="center" width="55%"}
+:::
+:::
+
+## &#128105;&#8205;&#127979; Aulas
+
+<br>
+
+:::{.fragment}
+Como você gostaria de ser tratado?
+:::
+
+<br>
+
+![](https://media.giphy.com/media/STThOmSL9X8jpaEqfE/giphy.gif){fig-align="right" width="35%" height="35%"}
+
+## 📝 Avaliações dos trabalhos 
+
+:::{.justificado}
+Haverá duas avaliações que vão cobrir o conteúdo abordado em sala de aula, as listas de exercícios e as bibliografias citadas. As soluções de cada uma das provas devem estar bem **organizadas** e **justificadas**. Desta forma, você irá demonstrar sua capacidade de comunicar os seus resultados. Se a prova estiver **difícil de compreender** devido a organização e passagens não justificadas, haverá **penalidades**.
+:::
+
+:::{.columns}
+:::{.column width="50%"}
+- Prova 1
+
+**05/10/2026**
+:::
+
+:::{.column width="50%"}
+- Prova 2
+
+**23/11/2026**
+:::
+:::
+
+
+## 🔢 Critério de avaliação
+
+Resolução 106/2012, 23/2013 e 75/2016:
+
+:::{.justificado}
+&#10004; Será aprovado o aluno que obtiver média final (MF) maior ou igual a 5 $(MF\geq5)$, em que
+		$$MF=0,3N1+0,4N2 +0,3N3,$$
+em que $Ni$ é a nota da $i$-ésima prova ($i=1,2,3$) somado ao $i$-ésimo quiz.
+:::
+
+<br>
+
+:::{.justificado}
+&#10004; Para $MF$ poderá ser acrescentado um bônus por engajamento.
+:::
+
+---
+
+:::{.justificado}
+
+&#10004; O aluno com $MF<5$ deverá fazer um exame final no dia 18-01-2027 (com todo o conteúdo e sem consulta).
+
+Então,
+$$MFr=\frac{MF+NE}{2},$$ 
+em que $NE$ é a nota do exame final.
+
+Dessa forma, $$NF=\min(5,MFr).$$
+Será aprovado o aluno com $NF\geq5$.
+:::
+
+## 🚫 Desonestidade acadêmica
+
+![](https://media.giphy.com/media/SRqTQmbYdm5jgS7xH9/giphy.gif){fig-align="center" width="40%"}
+
+A desonestidade em nosso trabalho representa uma **grave violação ética**.
+
+## Recomendações
+
+![](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2M5aDBubmxqcnVsMHpobXZ2Yjd4N3VjbnZlOGYwNm5wOXQ2cHk3aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lraXagM6W2ae23iiRC/giphy.gif){fig-align="center" width="20%"}
+
+:::{.justificado}
+- Se você faltar em uma aula, é **sua responsabilidade** saber o que foi discutido;
+
+- Sair da aula com a sensação de que entendeu a materia não é um indício de que você entendeu a matéria, e nem de que a matéria é fácil. **Faça exercícios e leia um livro**.
+
+- **Estar nesta disciplina é uma decisão sua**. Por isso, espero postura, respeito e responsabilidade com a disciplina.
+:::
+
+---
+
+<img src="fig-lab/mod.jpg"  style="width:25%">
+
+<br>
+
+:::{.columns}
+:::{.column width="60%"}
+
+&#10004; <https://moodle.unesp.br/>
+
+<br>
+
+&#10004; Graduação - busca: 2026 laboratório
+
+<br>
+
+&#10004; 2026 - Laboratório de Estatítsica
+
+<br>
+
+&#10004; Senha: lab
+:::
+
+:::{.column width="40%"}
+```{r , echo=FALSE, fig.align = 'left', out.width = '80%'}
+knitr::include_graphics('https://media.giphy.com/media/IoP0PvbbSWGAM/giphy.gif')
+```
+:::
