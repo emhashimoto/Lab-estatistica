@@ -180,6 +180,93 @@ knitr::include_graphics('https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzV2aT
 
 ![](https://media.giphy.com/media/STThOmSL9X8jpaEqfE/giphy.gif){fig-align="right" width="35%" height="35%"}
 
+## 🧑‍💻🧑‍💻 Trabalhos em grupo
+
+**Formação dos grupos**
+
+- Cinco grupos no total.
+
+- Quatro grupos com quatro alunos.
+
+- Um grupo com três alunos.
+
+:::{.fragment}
+**Plano de execução**
+
+- Elaborar o plano de execução seguindo o template disponibilizado.
+
+- Definir de forma objetiva o que será feito em cada dia da semana.
+
+- Utilizar linguagem clara e objetiva.
+:::
+
+---
+
+**Apresentação**
+
+- Apresentar o trabalho para a turma.
+
+- Tempo máximo: 15 minutos por grupo.
+
+- Arguição: 10 minutos.
+
+- Organizar a apresentação de forma clara, objetiva e didática.
+
+- Opte por uma vestimenta que transmita seriedade e confiança.
+
+:::{.fragment}
+**Relatório final**
+
+- Elaborar o relatório conforme o template disponibilizado.
+
+- Apresentar os resultados e as principais conclusões do trabalho.
+
+- Utilizar linguagem clara, objetiva e organizada.
+:::
+
+## 🎯Construção de dashbord
+
+<div style="text-align: center;">
+<iframe 
+  src="https://www.hypar.com.br/"
+  width="90%"
+  height="420"
+  style="border: none;">
+</iframe>
+</div>
+
+:::{.justificado}
+**Desafio**: Desenvolver um *dashboard* para uma loja de ferramentas, permitindo ao proprietário acompanhar e analisar o desempenho das vendas e dos produtos.
+:::
+
+## 🎯Problema de usinagem
+
+<br>
+
+:::{.fragment}
+**Objetivo**: Simular diferentes cenários de vida útil de uma mola remanufaturada e avaliar seu potencial de redução da pegada de carbono (CO₂e) ao longo da vida útil de um caminhão.
+:::
+
+::: {.fragment}
+
+**Dados de referência**
+
+- Vida útil do caminhão: 1.000.000 km
+
+- Vida útil média de uma mola nova: 300.000 km
+
+- Vida útil da mola remanufaturada: fixe três porcentagens da vida útil de uma mola nova.
+:::
+
+---
+
+**Desafio**: simular os dados de pegada de carbono para comparar a vida útil da mola remanufaturada.
+
+---
+
+**Desafio**: agrupar os melhores e piores fluidos de corte de acordo com as informações disponíveis.
+
+
 ## 📝 Avaliações dos trabalhos 
 
 :::{.justificado}
@@ -238,6 +325,48 @@ Será aprovado o aluno com $NF\geq5$.
 ![](https://media.giphy.com/media/SRqTQmbYdm5jgS7xH9/giphy.gif){fig-align="center" width="40%"}
 
 A desonestidade em nosso trabalho representa uma **grave violação ética**.
+
+## International Data Quest 🌍
+
+<br>
+
+Competição internacional de dados organizado pelo [*Committee on International Relations in Statistics*](https://community.amstat.org/committeeoninternationalrelationsinstatistics/events2/data-quest)
+
+<br>
+
+👩‍🎓 Quem pode participar?
+
+➡️ **Público-alvo**: estudantes de graduação e mestrado (em qualquer área!).
+
+➡️ **Equipes**: de 2 a 4 participantes (somente graduação ou somente mestrado).
+
+---
+
+➡️ **Países participantes na 1ª edição**: Brasil, Indonésia e Turquia.
+
+➡️ **Competição em duas fases**: nacional e internacional.
+
+<br>
+
+:::{.fragment}
+🏆 Prêmios:
+
+1. Best Data Visualization
+
+2. Best Consideration of Ethics
+
+3. Best Statistical Insight
+:::
+
+---
+
+📅 Datas importantes:
+
+🔹 **Divulgação dos dados**: 6 de outubro
+
+🔹 **Registro de equipes**: até 18 de outubro (aconselhamos até 11 de outubro)
+
+🔹 **Submissões (vídeo + slides)**: até 25 de outubro
 
 ---
 
