@@ -130,11 +130,13 @@ from: markdown+emoji
 
 ## Apresentar-se
 
+<br>
+
 - Nome
 
 - Cidade de origem
 
-- Está fazendo estágio? Se sim, em qual área.
+- Está fazendo estágio ou IC ou extensão? Se sim, em qual área
 
 ![](https://media.giphy.com/media/TKNGghpLhaz9XH1tSj/giphy.gif){fig-align="right" width=35% height=35%}
 
@@ -143,11 +145,9 @@ from: markdown+emoji
 <br>
 
 ::: {.callout-note}
-- Destacar a importância das técnicas de amostragem para obter informações sobre uma população.
+- Resolver problemas estatísticos aplicados, requisitados pela comunidade, com redação de relatórios técnicos;
 
-- Compreender os principais conceitos dos métodos de amostragem.
-
-- Aplicação das técnicas.
+- Encontrar soluções estatísticas de forma independente diante de situações práticas.
 :::
 
 ## ⏰ Horário
@@ -162,49 +162,41 @@ Aulas
 
 <br>
 
-:::{.columns}
-:::{.column width="50%"}
-✅ BOLFARINE & BUSSAB (2005)
-  
-![](fig-lab/fig_ea.png){fig-align="center" width="50%"}
-:::
-
-:::{.column width="50%"}
-✅ SCHEAFFER et al. (2011)
-
-![](fig-lab/fig_scheaffer.jpg){fig-align="center" width="55%"}
-:::
-:::
+```{r , echo=FALSE, fig.align = 'center', out.width = '10%'}
+knitr::include_graphics('https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzV2aTBhZHIxajA1ZHhmOTlvbTVoMGR1YWczdjFycTZ0MDlqeXc0eCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/sD3aa6UiynWfFZJX6E/giphy.gif')
+```
 
 ## &#128105;&#8205;&#127979; Aulas
 
 <br>
 
 :::{.fragment}
-Como você gostaria de ser tratado?
+- duas terças-feiras para apresentação de trabalho
 :::
 
-<br>
+:::{.fragment}
+- demais dias, estarei tanto em sala presencial quanto em sala virtual tirando dúvidas
+:::
 
 ![](https://media.giphy.com/media/STThOmSL9X8jpaEqfE/giphy.gif){fig-align="right" width="35%" height="35%"}
 
 ## 📝 Avaliações dos trabalhos 
 
 :::{.justificado}
-Haverá duas avaliações que vão cobrir o conteúdo abordado em sala de aula, as listas de exercícios e as bibliografias citadas. As soluções de cada uma das provas devem estar bem **organizadas** e **justificadas**. Desta forma, você irá demonstrar sua capacidade de comunicar os seus resultados. Se a prova estiver **difícil de compreender** devido a organização e passagens não justificadas, haverá **penalidades**.
+Haverá duas apresentações de trabalhos. As apresentações deverão estar bem organizadas. As ideias, escolhas e resultados apresentados deverão ser claramente explicados. Vocês deverão demonstrar não apenas o domínio do conteúdo, mas também a capacidade de comunicar suas ideias.
 :::
 
 :::{.columns}
 :::{.column width="50%"}
-- Prova 1
+- Apresentação 1
 
-**05/10/2026**
+**20/10/2026**
 :::
 
 :::{.column width="50%"}
-- Prova 2
+- Apresentação 2
 
-**23/11/2026**
+**15/12/2026**
 :::
 :::
 
@@ -215,8 +207,10 @@ Resolução 106/2012, 23/2013 e 75/2016:
 
 :::{.justificado}
 &#10004; Será aprovado o aluno que obtiver média final (MF) maior ou igual a 5 $(MF\geq5)$, em que
-		$$MF=0,3N1+0,4N2 +0,3N3,$$
-em que $Ni$ é a nota da $i$-ésima prova ($i=1,2,3$) somado ao $i$-ésimo quiz.
+		$$MF=(N_1+N_2)/2,$$
+em que
+$$N_i=P+A+C,\quad i =1, 2,$$
+em que $P$ é a nota do plano de execução (máximo de um ponto), $A$ é nota da apresentação (máximo de três pontos) e $C$ é a avaliação do cliente (máximo de cinco pontos). 
 :::
 
 <br>
@@ -229,7 +223,7 @@ em que $Ni$ é a nota da $i$-ésima prova ($i=1,2,3$) somado ao $i$-ésimo quiz.
 
 :::{.justificado}
 
-&#10004; O aluno com $MF<5$ deverá fazer um exame final no dia 18-01-2027 (com todo o conteúdo e sem consulta).
+&#10004; O aluno com $MF<5$ deverá reapresentar o trabalho no dia 19-01-2027.
 
 Então,
 $$MFr=\frac{MF+NE}{2},$$ 
@@ -244,18 +238,6 @@ Será aprovado o aluno com $NF\geq5$.
 ![](https://media.giphy.com/media/SRqTQmbYdm5jgS7xH9/giphy.gif){fig-align="center" width="40%"}
 
 A desonestidade em nosso trabalho representa uma **grave violação ética**.
-
-## Recomendações
-
-![](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2M5aDBubmxqcnVsMHpobXZ2Yjd4N3VjbnZlOGYwNm5wOXQ2cHk3aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lraXagM6W2ae23iiRC/giphy.gif){fig-align="center" width="20%"}
-
-:::{.justificado}
-- Se você faltar em uma aula, é **sua responsabilidade** saber o que foi discutido;
-
-- Sair da aula com a sensação de que entendeu a materia não é um indício de que você entendeu a matéria, e nem de que a matéria é fácil. **Faça exercícios e leia um livro**.
-
-- **Estar nesta disciplina é uma decisão sua**. Por isso, espero postura, respeito e responsabilidade com a disciplina.
-:::
 
 ---
 
