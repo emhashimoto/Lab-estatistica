@@ -184,11 +184,11 @@ knitr::include_graphics('https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzV2aT
 
 **Formação dos grupos**
 
-- Cinco grupos no total.
+- ~~Cinco~~ <span style="color: red;">Quatro</span> grupos no total.
 
-- Quatro grupos com quatro alunos.
+- Quatro grupos com ~~quatro~~ <span style="color: red;">cinco</span> alunos.
 
-- Um grupo com três alunos.
+- ~~Um grupo com três alunos~~.
 
 :::{.fragment}
 **Plano de execução**
@@ -206,9 +206,9 @@ knitr::include_graphics('https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzV2aT
 
 - Apresentar o trabalho para a turma.
 
-- Tempo máximo: 15 minutos por grupo.
+- Tempo máximo: ~~15~~ <span style="color: red;">25</span> minutos por grupo.
 
-- Arguição: 10 minutos.
+- Arguição: ~~10~~ <span style="color: red;">15</span> minutos.
 
 - Organizar a apresentação de forma clara, objetiva e didática.
 
@@ -243,6 +243,7 @@ knitr::include_graphics('https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzV2aT
 
 <br>
 
+<!--
 :::{.fragment}
 **Objetivo**: Simular diferentes cenários de vida útil de uma mola remanufaturada e avaliar seu potencial de redução da pegada de carbono (CO₂e) ao longo da vida útil de um caminhão.
 :::
@@ -261,11 +262,13 @@ knitr::include_graphics('https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzV2aT
 ---
 
 **Desafio**: simular os dados de pegada de carbono para comparar a vida útil da mola remanufaturada.
+-->
 
----
+**Desafio**: utilizar dados experimentais para ranquear, com rigor estatístico, os fluidos testados com base nas variáveis observadas.
 
-**Desafio**: agrupar os melhores e piores fluidos de corte de acordo com as informações disponíveis.
-
+```{r , echo=FALSE, fig.align = 'center', out.width = '40%'}
+knitr::include_graphics('https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTJkZXJ2dzRxd21ydDRtaXNpd3JnejBxZ3g1ZXF4YWQzNGQwdDJlaiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/4EFt4pA9U27Gau23IZ/giphy.gif')
+```
 
 ## 📝 Avaliações dos trabalhos 
 
@@ -297,7 +300,7 @@ Resolução 106/2012, 23/2013 e 75/2016:
 		$$MF=(N_1+N_2)/2,$$
 em que
 $$N_i=P+A+C,\quad i =1, 2,$$
-em que $P$ é a nota do plano de execução (máximo de um ponto), $A$ é nota da apresentação (máximo de três pontos) e $C$ é a avaliação do cliente (máximo de cinco pontos). 
+em que $P$ é a nota do plano de execução (máximo de um ponto), $A$ é nota da apresentação (máximo de quatro pontos) e $C$ é a avaliação do cliente (máximo de cinco pontos). 
 :::
 
 <br>
