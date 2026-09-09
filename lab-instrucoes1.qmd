@@ -5,90 +5,79 @@ format:
         css: estilo.css
 ---
 
-## Objetivo do trabalho
-
-- Fazer uma análise exploratória de um conjunto de dados.
-
-- A análise exploratória pode ser feita utilizando o *software* `R` ou **a mão** ou por meio de um **processador de texto** ou por qualquer outro recurso computacional.
-
-<br>
-
 ## Prazo de entrega
 
-- Três semanas (24/03 a 14/04) para escolher o conjunto de dados.
+- Prazo final de entrega do relatório técnico: às **23:59 do dia 20/10/2026**.
 
-- Quatro semanas (15/04 a 15/05) para fazer o relatório.
-
-- Prazo final de entrega: às 23:59 do dia 15/05.
-
-<br>
-
-## Conjunto de dados
-
-Para selecionar um conjunto de dados:
-
-- Escolher um assunto.
-
-- Procurar um conjunto de dados, em que possa ser escolhido **três variáveis** para estudo (pelo menos uma variável deve ser quantitativa). Opções de *site* com base dados estão disponíveis no moodle.
-
-- O conjunto de dados deve ter no **mínimo 100 observações** (ou seja, 100 linhas). Os alunos que **optarem** por fazer o **trabalho a mão**, a quantidade de observações deve ser de no **mínimo 30 observações**.
-
-
-- No moodle na **planilha de dados - nomes**, escrever o nome do conjunto de dados escolhido na **Página 1**. Desta forma, evita-se que dois ou mais alunos tenham o mesmo conjunto de dados. **Evitar** os conjunto de dados da Página 2 e Página 3 da planilha.
-
-<br>
+- **Não será aceito** relatório técnico fora do prazo ou entregue por e-mail.
 
 ## Trabalho
 
-Roteiro:
+Para realizar este projeto, a equipe deve utilizar os dados brutos disponível em *dados de fluido de corte* no moodle. Este arquivo reúne diferentes formulações (sintéticos, semi-sintéticos, vegetais), composições de aditivos e os resultados dos ensaios.
 
-- Título.
+Nesse contexto, o que a equipe deve fazer:
 
-- Autor.
+- **Preparação dos dados**: limpar a base de dados e organizar as variáveis.
 
-- Descrição do conjunto de dados, bem como das variáveis (classificar as variáveis).
+- **Estabelecimento de critérios**: definir e justificar as variáveis que serão utilizadas na análise.
 
-- Estatística descritiva:
-  
-  * gráficos.
-  
-  * medidas resumo (média, mediana, desvio padrão, mínimo, máximo).
-  
-- Interpretação dos resultados: informações que pode-se extrair da análise exploratória sobre o assunto do conjunto de dados.
+- **Aplicação do método estatístico**: escolher a metodologia estatística dentre as que foram vistas no curso.
 
-- Referências bibliográficas (incluindo a fonte dos dados).
+- **Ranqueamento**: com base no método escolhido, classificar os fluidos do melhor para o pior.
 
-- Apêndice com as expressões matemáticas utilizadas.
-
-<br>
-**Observação**: não há necessidade de uma capa.
-
-<br>
-
-## Avaliação
-
-A nota do relatório corresponde a **5 pontos**.
-
-A avaliação da análise exploratória será de acordo com os seguintes itens:
-
-- Apresentação do relatório (organizado, bem escrito, figuras e tabelas ajustadas de acordo com o texto).
-
-- Estatística descritiva.
-
-- Intepretação dos resultados.
-
+- **Relatório técnico**: apresentar o desenvolvimento do projeto em um relatório cujo o template esta disponível no moodle em *Template - relatório técnico*. 
 
 <br>
 **Observações**: 
 
-- **Cópias de análise exploratória** da *internet* serão avaliadas como zero. 
-- **Trabalhos mal feitos** serão avaliados como zero. 
+A equipe tem total liberdade para escolher o recurso computacional para auxiliar nas análises.
 
+## Avaliação
+
+A nota do relatório técnico faz parte da nota da apresentação que corresponde a **quatro pontos**.
+
+A avaliação será de acordo com os seguintes itens:
+
+- **Relatório técnico - 2,0 pontos**
+
+(0,25) **Estrutura do trabalho (template)**: o trabalho deve obedecer rigorosamente à estrutura e formatação do template fornecido.
+
+(0,50) **Apresentação geral e escrita científica**: texto bem escrito, coeso, com linguagem científica e objetiva. Figuras e tabelas devidamente ajustadas e referenciadas no texto.
+
+(1,00) **Método estatístico**: descrição e aplicação correta do método estatístico escolhido, incluindo as ferramentas computacionais utilizadas. 
+
+(0,25) **Conclusão**: apresentar quais os melhores e piores fluidos de corte.
+
+- **Apresentação em grupo - 2,0 pontos**
+
+(0,50) **Domínio do conteúdo**: demonstração de conhecimento sobre o problema estudado, metodologia empregada, método estatístico, resultados e conclusões.
+
+(0,20) **Clareza e organização da apresentação**: apresentação estruturada de forma lógica e utilização adequada dos recursos visuais.
+
+(0,70) **Participação e integração da equipe**: distribuição equilibrada das falas entre os integrantes, articulação entre as diferentes partes da apresentação e demonstração de conhecimento do trabalho pela equipe.
+
+(0,40) **Arguição**: capacidade de responder aos questionamentos, demonstrando domínio do trabalho e capacidade de justificar as escolhas metodológicas e os resultados obtidos.
+
+(0,20) **Tempo de apresentação**: cumprimento do tempo máximo estabelecido de 25 minutos.
+
+Entre 20 e 25 min (inclusive): 0,20 ponto;
+de 25 a 28 min: 0,10 ponto e;
+mais de 28 min e menos do que 20 min: 0,00 ponto.
+    
 <br>
+**Observações**: 
+
+- **Cópias de relatório** serão avaliadas como zero.
+
+- **Relatório mal feito** será avaliado como zero. 
+
+- **Havendo a necessidade**, a nota poderá variar entre os membros da equipe.
 
 ## Considerações finais
 
-- Utilizar códigos para reproduzir uma análise exploratória será permitido. Entretanto, a escrita da análise deve ser de autoria do próprio aluno e citar a referência sempre que necessário.
+- Utilizar códigos disponíveis na *internet* ou gerados por inteligência artificial (IA) será permitido. Entretanto, a escrita da análise deve ser de autoria do própria equipe. Citar a referência e/ou fazer uma declaração de uso de ferramenta de IA.
 
-- Discutir com o colega sobre a forma de fazer uma análise exploratória será permitido. Entretanto, a escrita da análise deve ser de autoria do próprio aluno.
+- A equipe deverá entender os códigos utilizados na análise.
+
+- Textos gerados por ferramentas de inteligência artificial (IA) sem a declaração de utilização da ferramenta serão penalizados com desconto de dois pontos na nota final.
 
